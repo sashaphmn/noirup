@@ -1,3 +1,5 @@
+[![Github release](https://img.shields.io/github/v/tag/noir-lang/noirup.svg?sort=semver)](github.com/noir-lang/noirup/releases/latest)
+
 # `noirup`
 
 Update or revert to a specific Nargo branch with ease.
