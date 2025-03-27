@@ -1,4 +1,4 @@
-[![Github release](https://img.shields.io/github/v/tag/noir-lang/noirup.svg?sort=semver)](github.com/noir-lang/noirup/releases/latest)
+[![Github release](https://img.shields.io/github/v/tag/noir-lang/noirup.svg?sort=semver)](github.com/noir-lang/noirup/releases)
 
 # `noirup`
 
